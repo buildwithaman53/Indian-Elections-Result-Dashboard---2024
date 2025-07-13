@@ -1,6 +1,7 @@
-# Indian Elections Result Dashboard - 2024
-## 📊 Project Summary
+# India General Election Results Dashboard – 2024
+**Power BI Interactive Visualization | Built by Aman Bhatiya**
 
+## 📊 Project Summary
 This project presents a comprehensive and interactive **Power BI dashboard** analyzing the **2024 Indian General Election results**, conducted from **April 19 to June 1, 2024**, with counting held on **June 4, 2024**. The dashboard provides deep insights into voting outcomes, alliances, demographics, and constituency-level performance across India. It serves as a data-driven lens into the electoral dynamics and voter patterns shaping the largest democracy in the world.
 ---
 
